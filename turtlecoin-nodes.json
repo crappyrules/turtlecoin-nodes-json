@@ -71,13 +71,6 @@
       "cache": false
     },
     {
-      "name": "HarryGames Node [UK]",
-      "url": "trtl.harry.games",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Hashvault.pro turtle node",
       "url": "nodes.hashvault.pro",
       "port": 11898,
